@@ -13,8 +13,7 @@ Uses Java's inbuilt Swing and AWT packages for rendering lines and points to for
 **Mouse Based Events ->**
  Main driver behind various changes on the mesh, press and drag on unpinned particles to watch them bounce around due to their constraints and pinned particles to change the underlying structure of the entire mesh.
 
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79bdc1d1-1176-488d-b1ff-1f83bae41a17" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfcce11d-f065-493d-87a3-67f282ae4038" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58b5db4a-6d74-4db0-88da-5b568c7efbe8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c8ef4ee-0bc9-4908-844b-b6885f7414fb" />
 
 Have fun simulating! Regards.
